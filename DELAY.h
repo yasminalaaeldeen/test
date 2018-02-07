@@ -4,7 +4,7 @@
 void delay_ms(u32 ms);
 void delay_us(u32 us);
 #define clk1 (8*1000)
-#define clk2 (8)
+#define clk2 hi
 
 #define LOOP_STATIC_TIME (30)
 #define LOOP_DYNAMIC_TIME (42)

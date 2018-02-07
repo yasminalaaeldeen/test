@@ -25,7 +25,7 @@ count= ((us*clk2)-(LOOP_STATIC_TIME)-(FUNCTION_CALL_TIME )- (LOCAL_EQ_TIME ))/LO
 for(i=0;i<count;i++)
 				{
 					asm("NOP");
-				}
+				
 
 
 
